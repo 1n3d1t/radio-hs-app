@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/radio-hs-app/static/css/main.9a2578b1.css",
-    "main.js": "/radio-hs-app/static/js/main.b55b416e.js",
+    "main.js": "/radio-hs-app/static/js/main.8f2f697f.js",
     "static/js/453.e3ce19d1.chunk.js": "/radio-hs-app/static/js/453.e3ce19d1.chunk.js",
     "index.html": "/radio-hs-app/index.html",
     "main.9a2578b1.css.map": "/radio-hs-app/static/css/main.9a2578b1.css.map",
-    "main.b55b416e.js.map": "/radio-hs-app/static/js/main.b55b416e.js.map",
+    "main.8f2f697f.js.map": "/radio-hs-app/static/js/main.8f2f697f.js.map",
     "453.e3ce19d1.chunk.js.map": "/radio-hs-app/static/js/453.e3ce19d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a2578b1.css",
-    "static/js/main.b55b416e.js"
+    "static/js/main.8f2f697f.js"
   ]
 }
