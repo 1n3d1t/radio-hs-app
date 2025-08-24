@@ -1,4 +1,6 @@
 export const config = {
+   // URL del streaming de Listen2MyRadio
+  stream_url: 'http://healingsounds.radiostream321.com/;',
   // URL base para imágenes y metadata en Synology (ajusta con tus datos reales)
   synology_base_url: 'http://tu-synology-ip:puerto/public/', // Ej: 'http://192.168.1.100:5000/public/'
   // Logo principal
