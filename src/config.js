@@ -1,6 +1,7 @@
 export const config = {
   // URL del streaming de Listen2MyRadio
   stream_url: 'http://176.227.215.27:23729/;',
+<<<<<<< HEAD
   // Base URL for images and metadata on Synology (dejar como está por ahora)
   synology_base_url: 'http://192.168.1.157:8080/public/',
   // Main logo (cambiar a una URL pública o comentar temporalmente)
