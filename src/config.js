@@ -12,7 +12,7 @@ export const config = {
   // URL for Spotify proxy
   proxy_url: 'http://192.168.1.157:8080/public/proxy.php',
   // Generic default cover image (cambiar a una URL válida)
-  default_cover_url: 'https://via.placeholder.com/300', // URL temporal hasta que subas default_cover.jpg
+  default_cover_url: 'https://raw.githubusercontent.com/1n3d1t/radio-hs-app/main/public/default_cover.jpg', // URL temporal hasta que subas default_cover.jpg
   // Polling interval (in ms)
   poll_interval: 5000,
 };
